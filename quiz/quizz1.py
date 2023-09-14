@@ -1,5 +1,5 @@
 # 1. In your own words, describe what a variable is.
-A variable is a storage holder (container) for information.
+#A variable is a storage holder (container) for information.
 
 # 2. Name three (3) operators we've learned about in class and describe 
 # a situation where you would use each one.
@@ -8,7 +8,7 @@ A variable is a storage holder (container) for information.
 # 3. Describe the difference between camal case and pascal case.
 
 # 4. Which operator is being used in the example below
-Intergers 
+#Intergers 
 
 numberOfApples = 10
 numberOfOranges = 12
