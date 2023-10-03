@@ -7,7 +7,7 @@ linkTwo= 'https://afternerd.com/blog/python-lists-for-absolute-beginners/'
 # Answers must be submitted by the end of class to recieve a grade. 
 # when you submit your work, make sure your submit message is relevant and MAKES SENSE!
 
-# REMEMBER TO USE WRITE CLEAN AND READABLE CODE!
+# REMEMBER TO USE WRITE CLEAN AND READABLE CODE!                                                                                                                                                                                                                                                                                         
 
 # When ready, answer the following prompts, Good luck!
 
@@ -41,7 +41,9 @@ print(random_numbers[0])
 
 number_list= [1,2,3,4,5,6,7,8,9,10]
 
-range()
+x= range(1,10,2)
+for n in x:
+    print(n)
 
 # 4. You have been hired by amazon to be an engineer. Your first assignment is to fix their
 # shopping cart function. Your goal is to create a line of code that will
@@ -53,4 +55,19 @@ range()
 
 shopping_cart = ['notebook', 'pens','tape','mousepad']
 
+def amazon_Cart():
+    user_Item = input("What Are You Buying?")
+    shopping_cart.append(user_Item)
+    print(shopping_cart)
 
+#________________________________________________________________________________________________#
+
+list_of_items={'apple', 'orange', "book",}
+
+price_of_apples= 1.00
+price_of_oranges= 1.00
+price_of_books=10.00
+
+def shopping_Cart():
+    user_Item_W_price= input("what is your item and price?")
+    print(price_of_apples, price_of_oranges, price_of_books)
