@@ -69,5 +69,5 @@ price_of_oranges= 1.00
 price_of_books=10.00
 
 def shopping_Cart():
-    user_Item_W_price= input("what is your item and price?")
+    input("what is your item and price?")
     print(price_of_apples, price_of_oranges, price_of_books)
