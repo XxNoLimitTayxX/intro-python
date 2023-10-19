@@ -38,3 +38,29 @@
 
 # website to reference for MLA style citation: 
 # https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_sample_works_cited_page.html
+
+# Python coding makes one of the most popular games, The Sims, even better than it already is! 
+# Python is the base coding method for the SIms 4. Which is a interactive simulation based game. On the other side, 
+# Python is a popular programming language, and it's used for creating games, programs, apps, and more! They are also
+# creators of one of the most popular games of the last decade.
+
+# It's like the secret sauce that makes everything happen. When you tell your Sim to dance, or eat a plate of grilled
+# cheese, Python is the one that makes sure your Sim gets up and does it. It's like the puppet master behind the 
+# curtain, making sure all the Sims in the game do their thing. Python also helps with mods and custom content. 
+# Modders, who are basically extremely talented fans of the game, use Python to create amazing stuff. They can make new 
+# clothes, furniture, or even whole new worlds for your Sims to explore. Python is like the magic wand that makes 
+# their ideas come to life.
+
+# You don't have to be the best when it comes to computer science to understand Python and how it works with Sims.
+# BAsic comprehension and 
+
+
+
+
+
+
+
+
+
+#Python Scripting 
+h#ttps://sims-4-modding.fandom.com › wiki › Python_...
