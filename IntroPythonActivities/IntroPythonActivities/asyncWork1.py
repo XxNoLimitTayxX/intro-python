@@ -52,15 +52,9 @@
 # their ideas come to life.
 
 # You don't have to be the best when it comes to computer science to understand Python and how it works with Sims.
-# BAsic comprehension and adapting skills are perfect for this. There are plenty of tutorials and guides that 
+# BAsic comprehension and adapting skills are perfect for this. There are plenty of tutorials and guides tha`t 
 #explain Python step by step, and you can ask for help from the awesome Sims community. Such as,
 # https://www.carls-sims-4-guide.com/forum/index.php?topic=32473.0
-
-
-
-
-
-
 
 
 #Python Scripting 
